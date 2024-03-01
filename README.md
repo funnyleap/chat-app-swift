@@ -14,11 +14,4 @@ xed Swift-Chat-App
 
 ```
 
-<h2>Link on the video: </h2>
 
-
-```bash
-
-https://www.youtube.com/watch?v=Zz9XQy8PRpQ&t=1391s
-
-```
